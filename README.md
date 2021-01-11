@@ -6,4 +6,4 @@ Overview: Create a simple calendar application that allows a user to save events
 
 This is part of my UC Berkeley Bootcamp assignment challenge and an initial code sourse is from https://github.com/coding-boot-camp/super-disco
 
-![Alt text](Develop/workday scheduler.png "workday scheduler")
+![alt text](https://github.com/caflores31/workday-scheduler/blob/master/Develop/workday%20scheduler.png)
